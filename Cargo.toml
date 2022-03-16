@@ -31,3 +31,4 @@ debug = 0
 # ungrammar = { path = "../ungrammar" }
 
 # salsa = { path = "../salsa" }
+rowan-diff = {path = "../rowan-diff"}
